@@ -4,7 +4,7 @@ A small, offline Python check for AWS security group rules that permit SSH (TCP 
 
 ## Project context and contribution
 
-This is a new, AI-assisted portfolio demonstration prepared for Niyi Adegoke. It uses synthetic examples and contains no employer code or infrastructure data. It is not a production deployment, a discovered vulnerability, a CVE, or evidence of work performed for a client.
+This is a portfolio demonstration prepared for Niyi Adegoke. It uses synthetic examples and contains no employer code or infrastructure data. It is not a production deployment, a discovered vulnerability, a CVE, or evidence of work performed for a client.
 
 Niyi supplied the career context and requested a repository-ready security example. The AI assistant selected the implementation approach, wrote the scanner, fixtures, tests, workflow, and documentation, and executed local tests. Niyi's review, modifications, and independent validation are not asserted here. Update this section with specific personal changes after making and reviewing them. HashiCorp and AWS documentation informed the input format and rule rationale; their implementations are not reproduced here.
 
