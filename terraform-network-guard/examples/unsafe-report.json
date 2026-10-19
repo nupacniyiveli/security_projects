@@ -1,0 +1,19 @@
+{
+  "evaluated_rules": 1,
+  "findings": [
+    {
+      "address": "aws_security_group_rule.demo",
+      "message": "Administrative port permits an IPv4 or IPv6 default route",
+      "remediation": "Remove public administrative ingress; use an approved private access path.",
+      "rule_id": "NET001",
+      "rule_index": 0,
+      "services": [
+        "SSH"
+      ],
+      "severity": "HIGH"
+    }
+  ],
+  "ignored_resources": 0,
+  "review_required": [],
+  "supported_resources": 1
+}
